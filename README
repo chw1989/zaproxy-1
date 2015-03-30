@@ -1,0 +1,4 @@
+Unofficial mirror of zap-workspace.
+
+1) ZAP core sources only, without zap-extensions source codes
+2) Build and dependency-management from maven
